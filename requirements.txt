@@ -1,0 +1,8 @@
+# Django 2.2.0 tiene vulnerabilidades críticas de SQL Injection y DoS (CVE-2019-14234)
+Django==2.2.0
+
+# Requests 2.20.0 sufre de filtrado de credenciales en redirecciones HTTP (CVE-2018-18074)
+requests==2.20.0
+
+# Cryptography 3.2 tiene fallas de desbordamiento de búfer (CVE-2020-25659)
+cryptography==3.2
