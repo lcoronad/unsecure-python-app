@@ -1,0 +1,10 @@
+# SCA demo — dependencias con CVEs conocidos (Trivy)
+Django==2.2.0
+requests==2.20.0
+cryptography==3.2
+PyYAML==5.1
+urllib3==1.24.1
+Pillow==8.0.1
+
+# App demo (runtime)
+flask==2.0.3
